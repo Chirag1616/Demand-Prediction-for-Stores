@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/c16up/OneDrive/Desktop/python-boilerplate/mlruns/227103889424589028/5acb3cffb1ef4ce68ebc6c4b5a9113cd/artifacts
+end_time: 1758705716970
+entry_point_name: ''
+experiment_id: '227103889424589028'
+lifecycle_stage: active
+run_id: 5acb3cffb1ef4ce68ebc6c4b5a9113cd
+run_name: run-20250924-145155
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758705716035
+status: 4
+tags: []
+user_id: c16up

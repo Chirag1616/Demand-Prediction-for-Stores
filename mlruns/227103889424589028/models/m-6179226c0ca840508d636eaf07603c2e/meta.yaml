@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/c16up/OneDrive/Desktop/python-boilerplate/mlruns/227103889424589028/models/m-6179226c0ca840508d636eaf07603c2e/artifacts
+creation_timestamp: 1758706236135
+experiment_id: '227103889424589028'
+last_updated_timestamp: 1758706240934
+model_id: m-6179226c0ca840508d636eaf07603c2e
+model_type: null
+name: model
+source_run_id: 255a0b27d7cc4653b5b0448ce46c5bee
+status: 2
+status_message: null

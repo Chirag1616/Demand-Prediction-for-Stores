@@ -1,0 +1,22 @@
+experiment_name: walmart-sales
+data_path: data/walmart.csv
+output_dir: outputs
+models:
+  - name: RandomForest
+    params:
+      n_estimators: 100
+      max_depth: 10
+  - name: RandomForest
+    params:
+      n_estimators: 200
+      max_depth: 15
+  - name: ExtraTrees
+    params:
+      n_estimators: 100
+      max_depth: 10
+  - name: Ridge
+    params:
+      alpha: 1.0
+  - name: Lasso
+    params:
+      alpha: 0.1
